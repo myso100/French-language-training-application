@@ -1,8 +1,8 @@
-# 🦉 L'HIBOU — French Learning Web App
+# 🦉 Dualingo Learning Web App
 
-**L'HIBOU** is an interactive French-learning web application designed to help beginners master vocabulary and pronunciation through gamified quizzes, a visual learning path, and a lightweight Java backend.
+**Dualingo** is an interactive French-learning web application designed to help beginners master vocabulary and pronunciation through gamified quizzes, a visual learning path, and a lightweight Java backend.
 
-🌐 **Live Demo:** _(Add your Railway URL here)_
+🌐 **Live Demo:** _(Not Available Yet)_
 📸 **Preview**
 
 <img width="1919" height="969" alt="Screenshot 2025-12-15 143926" src="https://github.com/user-attachments/assets/6f04f20a-0569-4b3b-92fd-f85e78ef914f" />
